@@ -70,7 +70,7 @@ Conseguir mi **primer trabajo como desarrollador web junior**, seguir formándom
 ## 📫 Contacto
 
 - GitHub: [github.com/JorgeBueu](https://github.com/JorgeBueu)
-- Email: freirebueu.com
+- Email: freirebueu@gmail.com
 
 ---
 
