@@ -20,7 +20,7 @@ Me gusta entender cómo funcionan las cosas por dentro y mejorar poco a poco tan
 ### Lenguajes
 - HTML5
 - CSS3
-- JavaScript (básico)
+- JavaScript
 - PHP
 - Python
 - SQL
@@ -63,7 +63,7 @@ Tecnologías: PHP, MySQL, HTML, CSS
 
 ## 📈 Objetivo profesional
 
-Conseguir mi **primer trabajo como desarrollador web junior**, seguir formándome y ganar experiencia en proyectos reales.
+Conseguir mi **primer trabajo comosoftware developer junior**, seguir formándome y ganar experiencia en proyectos reales.
 
 ---
 
@@ -71,6 +71,7 @@ Conseguir mi **primer trabajo como desarrollador web junior**, seguir formándom
 
 - GitHub: [github.com/JorgeBueu](https://github.com/JorgeBueu)
 - Email: freirebueu@gmail.com
+- Linkedin: https://www.linkedin.com/in/jorgegarciafreire
 
 ---
 
