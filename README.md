@@ -71,7 +71,7 @@ Conseguir mi **primer trabajo comosoftware developer junior**, seguir formándom
 
 - GitHub: [github.com/JorgeBueu](https://github.com/JorgeBueu)
 - Email: freirebueu@gmail.com
-- Linkedin: https://www.linkedin.com/in/jorgegarciafreire
+- Linkedin: [linkedin.com/in/jorgegarciafreire](https://www.linkedin.com/in/jorgegarciafreire)
 
 ---
 
