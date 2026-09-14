@@ -9,7 +9,7 @@ Interesado especialmente en desarrollo backend, APIs y software empresarial.
 
 ## 🧑‍💻 Sobre mí
 
-Actualmente finalizando el ciclo de **Desarrollo de Aplicaciones Web (DAW)**, orientando mi perfil hacia el desarrollo backend con **PHP y Symfony**.
+Actualmente finalizando el ciclo de **Desarrollo de Aplicaciones Web (DAW)**, orientando mi perfil hacia el desarrollo backend.
 
 Me interesa especialmente trabajar en:
 
